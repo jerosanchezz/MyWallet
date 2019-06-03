@@ -1,6 +1,16 @@
 # Smart-Wallet
 
-Smart-Wallet is the free, effortless way to manage your money in one place. You can manage your money and budget with your personal financial advocate.
+Smart Walletは、お金を一か所で管理するための無料で簡単な方法です。 あなたはあなたの個人的な財政の支持者とあなたのお金と予算を管理することができます。
+
+あなたの財政を追跡することは、こんなに簡単で速いということはありませんでした。 一日に数秒を費やすだけで、毎月たくさんのお金を節約できます。 どこにいても、タップするだけで費用を節約できます。
+
+アプリの特徴：
+ - 費用と収入を簡単に管理
+ -  1日の平均費用を探す
+ - 毎月の費用を予測する
+ - 予算を定義して追跡します
+
+Smart Wallet is the free, effortless way to manage your money in one place. You can manage your money and budget with your personal financial advocate.
 
 Tracking your finances has never been such easy and fast. Just by spending few seconds a day, save a lot of money each month. No matter where you are, just a couple of taps will save your expense.
 
