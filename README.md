@@ -1,4 +1,4 @@
-# Smart-Wallet
+# MyWallet
 
 MyWallet is the free, effortless way to manage your money in one place. You can manage your money and budget with your personal financial advocate.
 
